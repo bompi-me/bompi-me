@@ -7,6 +7,13 @@ side: the game server controller, the backend, and the infra that keeps it all
 running. that work is private and stays that way, so this profile is sparse on
 purpose rather than by accident.
 
+## contact
+
+discord: `bompi`
+
+that's the whole list. i don't watch github notifications closely, so discord is
+faster. if it's about a specific repo, an issue on that repo works too.
+
 ## currently
 
 - rebuilding [bompi.me](https://bompi.me), which is still coming up
