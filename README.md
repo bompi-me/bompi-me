@@ -16,7 +16,7 @@ faster. if it's about a specific repo, an issue on that repo works too.
 
 ## currently
 
-- rebuilding [bompi.me](https://bompi.me), which is still coming up
+- [bompi.me](https://bompi.me) is live: trackmania signs, a discord formatter, and map tools
 - more trackmania tooling than is strictly reasonable
 
 i don't take pull requests on anything here, and there isn't much here. if you're
